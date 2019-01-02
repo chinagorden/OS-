@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/波浪米白色.jpg</file>
+        <file>pic/banker.ico</file>
+        <file>aa.txt</file>
+    </qresource>
+</RCC>
