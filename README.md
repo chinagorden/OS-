@@ -1,2 +1,2 @@
 # OS-
-linux operation system course design
+linux operation system course design in gdut
